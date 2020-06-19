@@ -4,7 +4,7 @@ import 'firebase/database'
 
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyCQUpbxr_W3biLTcx1oSecbWRNehNBhkDQ",
+    apiKey: //private,
     authDomain: "chatbox-f0be3.firebaseapp.com",
     databaseURL: "https://chatbox-f0be3.firebaseio.com"
 })
